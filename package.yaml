@@ -1,0 +1,14 @@
+name : xnview
+
+uuid : 977158e1-8b83-4a46-aa77-3e3a3e924316
+
+description : "XnViewMP is the enhanced version to XnView."
+authors : [XnSoft]
+config_version : 0
+version : 0.72.0
+
+# requires :
+# - badenv
+
+commands:
+- export PATH=$BD_SHARE/xnview/!VERSION!:$PATH
