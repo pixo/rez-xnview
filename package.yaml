@@ -7,8 +7,5 @@ authors : [XnSoft]
 config_version : 0
 version : 0.72.0
 
-# requires :
-# - badenv
-
 commands:
-- export PATH=$BD_SHARE/xnview/!VERSION!:$PATH
+- export PATH=$BD_SOFTS/xnview/!VERSION!:$PATH
