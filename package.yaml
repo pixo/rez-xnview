@@ -9,3 +9,5 @@ version : 0.72.0
 
 commands:
 - export PATH=$BD_SOFTS/xnview/!VERSION!:$PATH
+- export REZ_IMAGE_VIEWER=xnview
+
